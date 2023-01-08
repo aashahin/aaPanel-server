@@ -11,7 +11,10 @@ You can download the source code and build from it
 ``
 
 To solve this problem use this command and replace the current file with this file :
+``
 sudo nano /www/server/panel/install/openlitespeed.sh
+``
+
 the file : https://gitlab.com/abshahin/aapanel/-/blob/main/openlitespeed/openlitespeed.sh
 
 
