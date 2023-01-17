@@ -18,4 +18,5 @@ sudo nano /www/server/panel/install/openlitespeed.sh
 
 the file : https://gitlab.com/abshahin/aapanel/-/blob/main/openlitespeed/openlitespeed.sh
 
+and install by this command  `` bash /www/server/panel/install/openlitespeed.sh install ``
 
