@@ -31,6 +31,13 @@ function check_os
                     OSNAMEVER=CENTOS8
                     OSNAME=centos
                     OSVER=8
+	    else
+                cat /etc/redhat-release | grep " 38." > /dev/null
+                if [ $? = 0 ] ; then
+                    OSNAMEVER=FEDORA
+                    OSNAME=fedora
+                    OSVER=38
+                    fi
                 fi
             fi
         fi
