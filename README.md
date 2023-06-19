@@ -16,7 +16,7 @@ To solve this problem use this command and replace the current file with this fi
 sudo nano /www/server/panel/install/openlitespeed.sh
 ``
 
-the file : https://gitlab.com/abshahin/aapanel/-/blob/main/openlitespeed/openlitespeed.sh
+the file : [Click here](https://github.com/aashahin/aaPanel/blob/main/openlitespeed/openlitespeed.sh)
 
 and install by this command  `` bash /www/server/panel/install/openlitespeed.sh install ``
 
